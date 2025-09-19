@@ -8,11 +8,11 @@
 * **Handle:** alirezamahdev
 * **Born:** 2001 — started coding at age 13 (started in 2014) — **11+ years** hands‑on software development experience
 * **Links:**
-  * LinkedIn: https://www.linkedin.com/in/alirezamahdev/
-  * Github: https://github.com/AlirezaMahDev/
-  * Portfolio: https://alirezamahdev.github.io/
-  * Telegram: https://t.me/AlirezaMahDev/
-  * X (Twitter): https://x.com/AlirezaMahDev/
+  * LinkedIn: [https://www.linkedin.com/in/alirezamahdev/](https://www.linkedin.com/in/alirezamahdev/)
+  * Github: [https://github.com/AlirezaMahDev/](https://github.com/AlirezaMahDev/)
+  * Portfolio: [https://alirezamahdev.github.io/](https://alirezamahdev.github.io/)
+  * Telegram: [https://t.me/AlirezaMahDev/](https://t.me/AlirezaMahDev/)
+  * X (Twitter): [https://x.com/AlirezaMahDev/](https://x.com/AlirezaMahDev/)
 
 ---
 
