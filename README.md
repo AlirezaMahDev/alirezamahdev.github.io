@@ -7,7 +7,12 @@
 * **Email:** [alireazmahdev@gmail.com](mailto:alireazmahdev@outlook.com) · [alirezamahdev@outlook.com](mailto:alirezamahdev@gmail.com) · [alirezamahdev@proton.me](mailto:alirezamahdev@proton.me)
 * **Handle:** alirezamahdev
 * **Born:** 2001 — started coding at age 13 (started in 2014) — **11+ years** hands‑on software development experience
-* **Links:** [LinkedIn](https://www.linkedin.com/in/alirezamahdev/) · [GitHub](https://github.com/AlirezaMahDev/) · [Portfolio](https://alirezamahdev.github.io/) · [Telegram](https://t.me/AlirezaMahDev) · [X (Twitter)](https://x.com/AlirezaMahDev)
+* **Links:**
+* LinkedIn: https://www.linkedin.com/in/alirezamahdev/
+* Github: https://github.com/AlirezaMahDev/
+* Portfolio: https://alirezamahdev.github.io/
+* Telegram: https://t.me/AlirezaMahDev/
+* X (Twitter): https://x.com/AlirezaMahDev/
 
 ---
 
