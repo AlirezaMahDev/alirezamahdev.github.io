@@ -59,9 +59,9 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ## Professional Experience
 
-### Tika (تیکا) — Software Engineer / .NET Developer
+### Tikaa — Software Engineer / .NET Developer
 
-**1398 — 1399 (Solar Hijri) · 2019–2020 (Gregorian)**
+**2019–2020**
 
 * Designed and implemented payment processing software, vault (safe‑deposit) systems and smart socket management platforms.
 * Led full‑stack development: backend services in .NET and responsive frontends; implemented secure payment flows and device integration logic.
@@ -71,9 +71,9 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ---
 
-### RoozTBime (روزی‌‌بیمه) — Full‑Stack Developer
+### RoozTBime — Full‑Stack Developer
 
-**1399 — 1400 · 2020–2021**
+**2020–2021**
 
 * End‑to‑end delivery of an online + in‑person insurance sales platform: UI/UX, backend APIs, and server provisioning.
 * Implemented payment and order flows, user management, and production deployment and hardening.
@@ -84,7 +84,7 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ### Datam — .NET & Mobile Developer
 
-**1400 — 1401 · 2021–2022**
+**2021–2022**
 
 * Built online education systems with full responsibilities for server‑side architecture and cross‑platform mobile apps using Flutter.
 * Implemented content delivery, authentication, and real‑time interactions for online courses.
@@ -95,7 +95,7 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ### Villasanat — Platform Architect & Developer
 
-**1401 — 1402 · 2022–2023**
+**2022–2023**
 
 * Designed platform architecture and object modeling for design/architecture software products.
 * Produced modular, testable components and integration strategies for complex software objects.
@@ -104,9 +104,9 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ---
 
-### Samin Ray (ثمین رای) — Backend Developer (Banking Platforms)
+### Samin Ray — Backend Developer (Banking Platforms)
 
-**1402 — 1403 · 2023–2024**
+**2023–2024**
 
 * Architected and implemented backend services for banking platforms and financial products.
 * Focused on high reliability, security, and transactional integrity required by banking systems.
@@ -115,9 +115,9 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ---
 
-### Pars Technology (پارس تکنولوژی سداد) — Systems & IoT Developer
+### Pars Technology — Systems & IoT Developer
 
-**1403 — 1404 · 2024–2025**
+**2024–2025**
 
 * Designed internal systems, HR solutions, and IoT integrations for banking hardware (including laser card printers and kiosk devices).
 * Developed device communication layers, backend services for device management, and deployed production solutions.
