@@ -71,7 +71,7 @@ Senior .NET Architect and full‑stack engineer with 11+ years of professional a
 
 ---
 
-### RoozTBime — Full‑Stack Developer
+### RoozBime — Full‑Stack Developer
 
 **2020–2021**
 
