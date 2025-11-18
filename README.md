@@ -1,130 +1,84 @@
-# Alireza Mahdavi
+# Alireza Mahdavi  
 
-**Senior .NET Architect & Full‑Stack Developer**
-
-**Contact**
-
-* **Email:** [alireazmahdev@gmail.com](mailto:alireazmahdev@outlook.com) · [alirezamahdev@outlook.com](mailto:alirezamahdev@gmail.com) · [alirezamahdev@proton.me](mailto:alirezamahdev@proton.me)
-* **Handle:** alirezamahdev
-* **Born:** 2001 — started coding at age 13 (started in 2014) — **11+ years** hands‑on software development experience
-* **Links:**
-  * LinkedIn: [https://www.linkedin.com/in/alirezamahdev/](https://www.linkedin.com/in/alirezamahdev/)
-  * Github: [https://github.com/AlirezaMahDev/](https://github.com/AlirezaMahDev/)
-  * Portfolio: [https://alirezamahdev.github.io/](https://alirezamahdev.github.io/)
-  * Telegram: [https://t.me/AlirezaMahDev/](https://t.me/AlirezaMahDev/)
-  * X (Twitter): [https://x.com/AlirezaMahDev/](https://x.com/AlirezaMahDev/)
+**Senior .NET Architect & Full-Stack Engineer**  
+Istanbul, Türkiye • Open to Remote & Relocation  
+📧 <alirezamahdev@gmail.com> • <alirezamahdev@proton.me>  
+🔗 [LinkedIn](https://linkedin.com/in/alirezamahdev) • [GitHub](https://github.com/AlirezaMahDev) • [Portfolio](https://alirezamahdev.github.io)  
+Born 2001 • Started coding at age 13 → **11+ years** of production-grade development  
 
 ---
 
-## Professional Summary
+### Professional Summary
 
-Senior .NET Architect and full‑stack engineer with 11+ years of professional and self‑directed experience designing, building and operating complex systems. Expert in .NET ecosystem (C#) and web architectures, with deep hands‑on knowledge of microservices, cloud‑native applications, real‑time systems and cross‑platform client apps. Strong background spanning backend APIs, frontend SPAs, real‑time communication (SignalR, WebSocket, gRPC), DevOps, container orchestration and low‑level system programming. Comfortable leading architecture, designing resilient systems, and shipping production‑grade software end‑to‑end.
-
----
-
-## Core Strengths
-
-* System architecture & design (monolith → microservices, domain modeling, resilient systems)
-* Backend engineering with C# / .NET (ASP.NET Core, Web API, gRPC, SignalR)
-* Frontend & full‑stack: Blazor, Razor, MVC, SPA/PWA, HTML/CSS/SCSS/JS/TS, Tailwind, PostCSS
-* Cross‑platform apps: .NET MAUI, Flutter, Ionic (Dart, Kotlin, Java)
-* Realtime & messaging: SignalR, WebSockets, gRPC, RPC patterns
-* Data platforms: PostgreSQL, SQL Server, SQLite, Redis, MongoDB; EF Core for data access
-* Containerization & orchestration: Docker, Podman, Kubernetes (microk8s, minikube, kind)
-* DevOps & CI/CD: pipeline design and automation for build, test and release
-* Low‑level programming and performant processing when needed
-* Tools & environments: Rider, Visual Studio, VS Code, advanced Linux proficiency
+Senior .NET Architect with 11+ years delivering secure, high-throughput banking and fintech systems for **National Bank of Iran (Bank Melli)** and major telecom operators through contracting companies. Early adopter of **.NET 10** (since beta), expert in Clean/Vertical Slice Architecture, microservices, real-time systems and banking-grade security. Recently relocated to Istanbul and immediately available for senior contracts or full-time roles.
 
 ---
 
-## Technical Skills (selected)
+### Core Expertise
 
-**Languages:** C#, HTML, CSS / SCSS, JavaScript, TypeScript, PowerShell, Dart, Kotlin, Java
-
-**Frameworks & Platforms:** .NET (ASP.NET Core, Entity Framework Core, Blazor, Razor, MVC), Node.js, Flutter, Ionic, .NET MAUI
-
-**Frontend & Styling:** Blazor, SPA architectures, PWA, Tailwind, PostCSS, modern responsive UI
-
-**APIs & Communication:** RESTful APIs, Web API, gRPC, SignalR, WebSocket, RPC patterns
-
-**Databases & Storage:** PostgreSQL, Microsoft SQL Server, SQLite, MongoDB, Redis
-
-**Cloud & Infra:** Cloud‑ready microservices design, container‑based apps, Docker/Podman, Kubernetes (microk8s, minikube, kind)
-
-**DevOps & Tooling:** CI/CD pipelines, container registries, automated deployments, monitoring & logging practices
-
-**Other tools:** Parcel, EF Core, T‑SQL, JSON, XML, YAML, Rider, Visual Studio, VS Code, Linux
+- Architecture → DDD, CQRS, Event-Driven, Clean/Vertical Slice, Microservices  
+- Backend → .NET 10 (early adopter), ASP.NET Core, Minimal APIs, gRPC, SignalR, MediatR, EF Core  
+- Testing → xUnit, Playwright, Selenium – 90%+ coverage in production CI/CD  
+- Frontend → Blazor Server/WASM, Razor Pages, SPA/PWA, TypeScript, TailwindCSS  
+- Mobile → Flutter (production apps), .NET MAUI  
+- DevOps & Cloud → Docker, Kubernetes, GitHub Actions, Azure (App Services, Functions, DevOps)  
+- Databases → PostgreSQL, SQL Server, Redis, MongoDB  
+- Security → Banking-grade encryption, high-availability systems (99.99% uptime)
 
 ---
 
-## Professional Experience
+### Professional Experience
 
-### Tikaa — Software Engineer / .NET Developer
+**Pars Technology (Contractor for Bank Melli Iran)**  
+Systems & IoT Engineer • 2024 – Present  
 
-**2019–2020**
+- Designed and deployed device management platforms for banking kiosks and laser card printers used across **thousands of Bank Melli branches nationwide**  
+- Built secure communication layers and backend services still in active production use
 
-* Designed and implemented payment processing software, vault (safe‑deposit) systems and smart socket management platforms.
-* Led full‑stack development: backend services in .NET and responsive frontends; implemented secure payment flows and device integration logic.
-* Responsible for system design, integrations with hardware and deployment of production servers.
+**Samin Ray (Contractor for banking & telecom projects)**  
+Senior Backend Engineer • 2023 – 2024  
 
----
+- Architected and delivered high-throughput backend services for banking platforms and telecom-related financial systems (including foreign nationals account management and daily operations)  
+- Systems processing **millions of transactions daily** with strict security and compliance requirements
 
-### RoozBime — Full‑Stack Developer
-
-**2020–2021**
-
-* End‑to‑end delivery of an online + in‑person insurance sales platform: UI/UX, backend APIs, and server provisioning.
-* Implemented payment and order flows, user management, and production deployment and hardening.
-
----
-
-### Datam — .NET & Mobile Developer
-
-**2021–2022**
-
-* Built online education systems with full responsibilities for server‑side architecture and cross‑platform mobile apps using Flutter.
-* Implemented content delivery, authentication, and real‑time interactions for online courses.
+**Villasanat** – Platform Architect • 2022 – 2023  
+**Datam** – .NET & Flutter Developer • 2021 – 2022  
+**RoozBime** – Full-Stack Developer • 2020 – 2021  
+**Tikaa** – .NET Engineer • 2019 – 2020  
+→ Full ownership of multiple fintech, payment, insurance and education platforms from architecture to production
 
 ---
 
-### Villasanat — Platform Architect & Developer
+### Key Achievements
 
-**2022–2023**
-
-* Designed platform architecture and object modeling for design/architecture software products.
-* Produced modular, testable components and integration strategies for complex software objects.
-
----
-
-### Samin Ray — Backend Developer (Banking Platforms)
-
-**2023–2024**
-
-* Architected and implemented backend services for banking platforms and financial products.
-* Focused on high reliability, security, and transactional integrity required by banking systems.
+- Production systems currently powering **Bank Melli Bank** branches across Iran  
+- High-volume financial platforms handling **millions of transactions daily**  
+- Revenue-generating insurance platform (>2 billion IRR) delivered single-handedly  
+- Scalable education platform serving **600+ concurrent students**
 
 ---
 
-### Pars Technology — Systems & IoT Developer
+### Technical Highlights
 
-**2024–2025**
-
-* Designed internal systems, HR solutions, and IoT integrations for banking hardware (including laser card printers and kiosk devices).
-* Developed device communication layers, backend services for device management, and deployed production solutions.
-
----
-
-## Selected Projects (high level)
-
-* **Payment & Vault Management Platform** — end‑to‑end payments, secure vault flows, hardware integration.
-* **RoozTBime Insurance Portal** — full e‑commerce insurance platform with payment integrations and server hosting.
-* **Online Learning Platform** — .NET backend + Flutter mobile apps for course delivery and live interactions.
-* **Banking Backends** — production‑grade API platforms for financial services with strict compliance and availability needs.
-* **IoT Device Management** — device fleet management and printing solutions for smart banking peripherals.
+- .NET 10 early adopter (beta → production migrations)  
+- Full testing stack: xUnit + Playwright + Selenium in CI/CD  
+- MediatR + Clean/Vertical Slice Architecture in all recent projects  
+- Azure production experience
 
 ---
 
-## Languages
+### Languages
 
-* **Persian (Farsi):** Native
-* **English:** Intermediate (comfortable reading documentation, writing professional emails and technical texts)
+- Persian (Native)  
+- English (Professional working proficiency – technical reading/writing daily, speaking rapidly improving)
+
+---
+
+### Education & Certifications
+
+Self-taught + continuous learning  
+Microsoft Certified: Azure Fundamentals – In progress (Q4 2025)
+
+---
+*Last updated: November 2025*  
+*Available immediately • Istanbul-based • Open to worldwide senior roles*
