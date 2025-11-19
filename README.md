@@ -82,3 +82,4 @@ Microsoft Certified: Azure Fundamentals – In progress (Q4 2025)
 ---
 *Last updated: November 2025*  
 *Available immediately • Istanbul-based • Open to worldwide senior roles*
+
