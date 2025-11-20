@@ -54,7 +54,7 @@ Professional Experience
 
 ### **Pars Technology (Subsidiary of Bank Melli Iran)**
 
-**Senior Systems & IoT Architect** | _Remote / Iran_ | _2024 – Present_
+**Senior Systems & IoT Architect** | _Tehran, Iran_ | _2024 – 2025_
 
 *   **Project:** **National ID Card Issuance IoT System**
     
