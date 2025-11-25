@@ -1,90 +1,110 @@
 # Alireza Mahdavi
+
 **Senior .NET Architect & Full-Stack Engineer**
 
-📍 Istanbul, Türkiye • Open to Remote & Relocation  
-📧 alirezamahdev@gmail.com • alirezamahdev@proton.me  
-🔗 [linkedin.com/in/alirezamahdev](https://linkedin.com/in/alirezamahdev) • [github.com/alirezamahdev](https://github.com/alirezamahdev) • [Portfolio](https://alirezamahdev.github.io/)
+📍 Istanbul, Türkiye • Open to Remote & Relocation
+
+📧 alirezamahdev@gmail.com • alirezamahdev@proton.me
+
+🔗 [LinkedIn](https://linkedin.com/in/alirezamahdev) • [GitHub](https://github.com/alirezamahdev) • [Portfolio](https://alirezamahdev.github.io)
 
 ---
 
 ### Professional Summary
-Senior .NET Architect with over 11 years of experience designing and delivering mission-critical, high-throughput systems in banking, fintech, and IoT domains serving millions of daily transactions.  
-Specialized in microservices, event-driven architectures, Domain-Driven Design, CQRS, and Clean Architecture with a focus on banking-grade security, regulatory compliance, and horizontal scalability.  
-Proven track record of independently architecting, building, and deploying large-scale platforms from scratch while ensuring maximum reliability and performance.
+Self-taught .NET architect with over 11 years of hands-on experience, starting coding at age 13 through rigorous study of official documentation and real-world projects.  
+
+Specialized in designing scalable, secure systems for banking, fintech, and IoT, handling high-throughput transactions with a focus on reliability, compliance, and performance.  
+
+Proven ability to architect and deploy production platforms independently, emphasizing practical skills in microservices, event-driven designs, and clean architecture for global applications.
 
 ---
 
 ### Core Competencies
 
-| Category                  | Technologies & Skills                                                                                  |
-|---------------------------|-------------------------------------------------------------------------------------------------------|
-| Architecture              | DDD, CQRS, Event Sourcing, Vertical Slice, Clean/Hexagonal, Microservices, Outbox/Inbox Pattern     |
-| Backend                   | .NET (up to 10), ASP.NET Core, Minimal APIs, gRPC, SignalR, MediatR, MassTransit, EF Core            |
-| Cloud & DevOps            | Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Linux-based pipelines (openSUSE optimized)        |
-| Frontend & Mobile         | Blazor (Server/WASM), Razor Pages, TypeScript, TailwindCSS, Flutter (production apps), .NET MAUI, Kotlin |
-| Data & Messaging          | PostgreSQL, SQL Server, Redis, MongoDB, RabbitMQ, Kafka, Polly                                       |
-| Testing & Quality         | xUnit, FluentAssertions, Testcontainers, Playwright, 90%+ code coverage, Contract Testing           |
-| Security & Compliance     | OAuth2/OIDC, JWT, Encryption at rest/transit, Audit logging, Regulatory reporting workflows        |
+- **Architecture**: DDD, CQRS, Event Sourcing, Vertical Slice, Clean/Hexagonal, Microservices, Outbox/Inbox Pattern
+
+- **Backend**: .NET (up to 10), ASP.NET Core, Minimal APIs, gRPC, SignalR, MediatR, MassTransit, EF Core
+
+- **Cloud & DevOps**: Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Linux-based pipelines (optimized for openSUSE)
+
+- **Frontend & Mobile**: Blazor (Server/WASM), Razor Pages, TypeScript, TailwindCSS, Flutter (production apps), .NET MAUI, Kotlin
+
+- **Data & Messaging**: PostgreSQL, SQL Server, Redis, MongoDB, RabbitMQ, Kafka, Polly
+
+- **Testing & Quality**: xUnit, FluentAssertions, Testcontainers, Playwright, 90%+ code coverage, Contract Testing
+
+- **Security & Compliance**: OAuth2/OIDC, JWT, Encryption at rest/transit, Audit logging, Regulatory reporting workflows
 
 ---
 
 ### Professional Experience
 
 **Pars Technology (Bank Melli Iran subsidiary)**  
-**Senior Systems & IoT Architect** • Tehran • 2024 – Sep 2025  
-- Designed and led deployment of a nationwide IoT platform managing thousands of smart devices across all bank branches with real-time synchronization and zero data loss  
-- Architected high-availability microservices ecosystem using RabbitMQ and event-driven patterns for massive message throughput  
-- Implemented banking-grade security protocols (mutual TLS, device attestation, encrypted channels) resulting in zero security incidents
+Senior Systems & IoT Architect • Tehran • 2024 – Sep 2025  
+
+- Designed and deployed a nationwide IoT platform for managing thousands of smart devices across bank branches, ensuring real-time synchronization and zero data loss through event-driven architecture.  
+- Built high-availability microservices using RabbitMQ, achieving massive message throughput with idempotency and automated retries.  
+- Implemented security protocols including mutual TLS, device attestation, and encrypted channels, resulting in zero incidents and compliance with banking standards.  
 
 **Samin Ray (Banking & Telecom Solutions)**  
-**Senior Backend Architect** • Tehran • 2023 – 2024  
-- Architected fully compliant foreign-national banking system integrated with Central Bank regulations and major telecom operators  
-- Built high-throughput transaction settlement engine using Event Sourcing, idempotency, automated retries, and dead-letter queues  
-- Designed comprehensive audit trails and reconciliation system that eliminated manual error correction for regulatory reporting
+Senior Backend Architect • Tehran • 2023 – 2024  
+
+- Architected a regulatory-compliant banking system for foreign nationals, integrated with central bank APIs and telecom operators.  
+- Developed a transaction settlement engine using Event Sourcing, handling high loads with dead-letter queues and audit trails.  
+- Created reconciliation workflows that automated error detection, reducing manual interventions for reporting.  
 
 **Villasanat**  
-**Lead Platform Architect** • Remote • 2022 – 2023  
-- Single-handedly designed and launched B2B marketplace for 3D architectural assets with licensing, versioning, escrow payments, and large-file delivery  
-- Achieved 99.99% uptime and sub-second asset delivery using distributed storage and CDN
+Lead Platform Architect • Remote • 2022 – 2023  
+
+- Independently built and launched a B2B marketplace for 3D assets, including licensing, escrow payments, and large-file delivery via distributed storage and CDN.  
+- Achieved 99.99% uptime and sub-second response times through optimized microservices.  
 
 **Datam**  
-**Senior .NET & Mobile Developer** • Remote • 2021 – 2022  
-- Delivered high-concurrency EdTech platform handling peak loads during national university entrance exams without degradation  
-- Built cross-platform mobile application with Flutter and .NET backend used internally by thousands of students
+Senior .NET & Mobile Developer • Remote • 2021 – 2022  
+
+- Delivered an EdTech platform for high-concurrency loads during national exams, maintaining performance without degradation.  
+- Developed a cross-platform mobile app with Flutter and .NET backend, serving thousands of users.  
 
 **RoozBime**  
-**Lead Full-Stack Developer (single-handed)** • Remote • 2020 – 2021  
-- Architected and developed complete online insurance sales platform for a major insurance broker  
-- Integrated multiple insurance providers and payment gateways, enabling direct policy issuance and significantly increasing sales volume and revenue
+Lead Full-Stack Developer (Independent) • Remote • 2020 – 2021  
+
+- Architected and implemented an online insurance sales platform for a major broker, integrating providers and payment gateways.  
+- Enabled direct policy issuance, increasing sales efficiency through automated workflows.  
 
 **Tikaa**  
-**Senior Full-Stack & Mobile Engineer** • Tehran • 2019–2020  
-- Developed three production IoT products (QR payment, smart irrigation, smart safe box) with end-to-end encryption and remote management via mobile app  
-- Built real-time dashboards with SignalR handling thousands of simultaneous connections
+Senior Full-Stack & Mobile Engineer • Tehran • 2019–2020  
+
+- Developed three IoT products (QR payment, smart irrigation, smart safe box) with end-to-end encryption and mobile app management.  
+- Built real-time dashboards using SignalR for thousands of connections.  
 
 **Freelance & Consulting**  
-**Full-Stack Architect** • 2020 – Present  
-- Provided architecture consulting and implementation for multiple medium-to-large projects focusing on microservices migration, performance optimization, and system modernization  
-- Specialized in clean architecture adoption, event-driven redesigns, and delivery of production-ready solutions
+Full-Stack Architect • 2020 – Present  
+
+- Consulted on microservices migrations, performance optimizations, and system modernizations for medium-to-large projects.  
+- Delivered production-ready solutions emphasizing clean architecture and event-driven patterns, adapting to international standards.  
 
 ---
 
 ### Education
-**B.Sc. Computer Science (Core curriculum completed – degree deferred)**  
-University of Science and Technology Beheshti • Tehran, Iran • 2020 – Deferred  
-Formal degree deferred to prioritize leadership of national-scale banking infrastructure projects. Practical expertise far exceeds standard graduate level through continuous production system delivery.
+High School Diploma in Mathematics and Physics • Tehran, Iran • 2020  
+
+- Pursued B.Sc. in Computer Science at University of Science and Technology Beheshti (withdrew due to economic and personal circumstances in Iran).  
+- Subsequently started B.Sc. in Computer Engineering (withdrew for similar reasons).  
+- Continued self-directed learning through official documentation (e.g., .NET docs, open-source contributions), building expertise equivalent to advanced professional levels via practical project delivery.  
 
 ---
 
 ### Certifications & Professional Development
 - Microsoft Certified: Azure Solutions Architect Expert – In Progress (exam scheduled Q1 2026)  
-- Day-one adopter and source-code-level expert in every .NET release since .NET Core 3.1, including .NET 10 (released November 2025)  
-- Regular speaker and active contributor in Persian and international .NET communities
+- Early adopter and expert in .NET releases since .NET Core 3.1, including source-code-level familiarity with .NET 10 (November 2025).  
+- Active contributor in .NET communities, with regular participation in discussions and code reviews.  
 
 ---
 
 ### Languages
 - Persian: Native  
-- English: Professional working proficiency – excellent in technical writing, reading, documentation, and written communication; spoken English actively improving
+- English: Professional proficiency in technical writing, reading, and documentation; conversational speaking actively improving.  
 
-**Last Updated:** 21 November 2025
+---
+
+Updated: November 2025  
