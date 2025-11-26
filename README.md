@@ -86,9 +86,9 @@ Full-Stack Architect • 2020 – Present
 ---
 
 ### Education
-High School Diploma in Mathematics and Physics • Tehran, Iran • 2020  
+High School Diploma in Mathematics and Physics • Karaj, Iran • 2020  
 
-- Pursued B.Sc. in Computer Science at University of Science and Technology Beheshti (withdrew due to economic and personal circumstances in Iran).  
+- Pursued B.Sc. in Computer Science at University of Science and Technology of Mazandaran (withdrew due to economic and personal circumstances in Iran).  
 - Subsequently started B.Sc. in Computer Engineering (withdrew for similar reasons).  
 - Continued self-directed learning through official documentation (e.g., .NET docs, open-source contributions), building expertise equivalent to advanced professional levels via practical project delivery.  
 
