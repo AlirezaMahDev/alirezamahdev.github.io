@@ -1,11 +1,8 @@
 # Alireza Mahdavi
 
-**Senior .NET Architect & Full-Stack Engineer**
+📍 Tehran, Iran • Open to work (full-time, part-time, remote)
 
-📍 Istanbul, Türkiye • Open to Remote & Relocation
-
-📧 alirezamahdev@gmail.com • alirezamahdev@proton.me
-
+📧 alirezamahdev@gmail.com • alirezamahdev@proton.me  
 🔗 [LinkedIn](https://linkedin.com/in/alirezamahdev) • [GitHub](https://github.com/alirezamahdev) • [Portfolio](https://alirezamahdev.github.io)
 
 ---
@@ -21,23 +18,24 @@ Proven ability to architect and deploy production platforms independently, empha
 
 ### Core Competencies
 
-- **Architecture**: DDD, CQRS, Event Sourcing, Vertical Slice, Clean/Hexagonal, Microservices, Outbox/Inbox Pattern
-
-- **Backend**: .NET (up to 10), ASP.NET Core, Minimal APIs, gRPC, SignalR, MediatR, MassTransit, EF Core
-
-- **Cloud & DevOps**: Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Linux-based pipelines (optimized for openSUSE)
-
-- **Frontend & Mobile**: Blazor (Server/WASM), Razor Pages, TypeScript, TailwindCSS, Flutter (production apps), .NET MAUI, Kotlin
-
-- **Data & Messaging**: PostgreSQL, SQL Server, Redis, MongoDB, RabbitMQ, Kafka, Polly
-
-- **Testing & Quality**: xUnit, FluentAssertions, Testcontainers, Playwright, 90%+ code coverage, Contract Testing
-
+- **Architecture**: DDD, CQRS, Event Sourcing, Vertical Slice, Clean/Hexagonal, Microservices, Outbox/Inbox Pattern  
+- **Backend**: .NET (up to 10), ASP.NET Core, Minimal APIs, gRPC, SignalR, MediatR, MassTransit, EF Core  
+- **Cloud & DevOps**: Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Linux-based pipelines (optimized for openSUSE)  
+- **Frontend & Mobile**: Blazor (Server/WASM), Razor Pages, TypeScript, TailwindCSS, Flutter (production apps), .NET MAUI, Kotlin  
+- **Data & Messaging**: PostgreSQL, SQL Server, Redis, MongoDB, RabbitMQ, Kafka, Polly  
+- **Testing & Quality**: xUnit, FluentAssertions, Testcontainers, Playwright, 90%+ code coverage, Contract Testing  
 - **Security & Compliance**: OAuth2/OIDC, JWT, Encryption at rest/transit, Audit logging, Regulatory reporting workflows
 
 ---
 
 ### Professional Experience
+
+**Freelance Architect & Consultant (Istanbul)**  
+Full-Stack Architect • Istanbul, Türkiye • Sep 2025 – Present  
+
+- Delivered architectural consulting and hands-on development for international fintech and enterprise clients, focusing on scalable microservices and event-driven systems.  
+- Designed and implemented a high-throughput transaction processing module with outbox/inbox patterns and idempotency, achieving zero data loss during peak loads.  
+- Integrated .NET 10 backend with modern frontend stacks (Blazor) and deployed on containerized environments, ensuring sub-second response times across global users.  
 
 **Pars Technology (Bank Melli Iran subsidiary)**  
 Senior Systems & IoT Architect • Tehran • 2024 – Sep 2025  
@@ -72,13 +70,13 @@ Lead Full-Stack Developer (Independent) • Remote • 2020 – 2021
 - Enabled direct policy issuance, increasing sales efficiency through automated workflows.  
 
 **Tikaa**  
-Senior Full-Stack & Mobile Engineer • Tehran • 2019–2020  
+Senior Full-Stack & Mobile Engineer • Tehran • 2019 – 2020  
 
 - Developed three IoT products (QR payment, smart irrigation, smart safe box) with end-to-end encryption and mobile app management.  
 - Built real-time dashboards using SignalR for thousands of connections.  
 
-**Freelance & Consulting**  
-Full-Stack Architect • 2020 – Present  
+**Freelance & Consulting (Earlier Projects)**  
+Full-Stack Architect • Remote • 2020 – Aug 2025  
 
 - Consulted on microservices migrations, performance optimizations, and system modernizations for medium-to-large projects.  
 - Delivered production-ready solutions emphasizing clean architecture and event-driven patterns, adapting to international standards.  
@@ -107,4 +105,4 @@ High School Diploma in Mathematics and Physics • Karaj, Iran • 2020
 
 ---
 
-Updated: November 2025  
+Updated: May 2026
